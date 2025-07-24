@@ -1,4 +1,4 @@
-![www-07](https://github.com/user-attachments/assets/2d61ad88-ed82-4c24-b13b-3eee2423ae6e)
+<img width="1895" height="923" alt="NFP Partners" src="https://github.com/user-attachments/assets/53e0bde9-8bb7-4af9-9646-a53d3ca56bfb" />
 
 ## 🔥 Project Name - N.F.P. Partners
 See the live version of [N.F.P. Partners](https://imediasystem.github.io/NFPPartners/)
