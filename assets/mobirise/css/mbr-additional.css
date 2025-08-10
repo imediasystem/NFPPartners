@@ -158,7 +158,7 @@ body {
   background-color: #ffc091 !important;
 }
 .bg-danger {
-  background-color: #f7f7f7 !important;
+  background-color: #ffffff !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -272,9 +272,9 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #f7f7f7 !important;
-  border-color: #f7f7f7 !important;
-  color: #787878 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #808080 !important;
   box-shadow: none;
 }
 .btn-danger:hover,
@@ -288,7 +288,7 @@ body {
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
-  color: #787878 !important;
+  color: #808080 !important;
   background-color: #ffffff !important;
   border-color: #ffffff !important;
 }
@@ -444,23 +444,23 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background-color: transparent !important;
-  border-color: #f7f7f7;
-  color: #f7f7f7;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
-  color: #cccccc !important;
+  color: #d4d4d4 !important;
   background-color: transparent !important;
-  border-color: #cccccc !important;
+  border-color: #d4d4d4 !important;
   box-shadow: none !important;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
-  color: #787878 !important;
-  background-color: #f7f7f7 !important;
-  border-color: #f7f7f7 !important;
+  color: #808080 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -520,7 +520,7 @@ body {
   color: #ffc091 !important;
 }
 .text-danger {
-  color: #f7f7f7 !important;
+  color: #ffffff !important;
 }
 .text-white {
   color: #fafafa !important;
@@ -556,7 +556,7 @@ a.text-warning.active {
 a.text-danger:hover,
 a.text-danger:focus,
 a.text-danger.active {
-  color: #c4c4c4 !important;
+  color: #cccccc !important;
 }
 a.text-white:hover,
 a.text-white:focus,
@@ -597,7 +597,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   background-color: #ffc091;
 }
 .alert-danger {
-  background-color: #f7f7f7;
+  background-color: #ffffff;
 }
 .mbr-section-btn .btn:not(.btn-form) {
   border-radius: 100px;
