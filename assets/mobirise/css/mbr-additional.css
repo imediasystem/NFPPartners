@@ -778,6 +778,11 @@ a {
     padding-right: 16px;
   }
 }
+*:focus-visible {
+  outline: red solid 2px !important;
+  outline-offset: 2px !important;
+  transition: outline 0.2s ease-in-out;
+}
 .cid-tJGsCG1vVL {
   z-index: 1000;
   width: 100%;
@@ -1344,7 +1349,7 @@ a {
 }
 .cid-uQwDUMq5i1 .mbr-overlay {
   background-color: #000000;
-  opacity: 0.3;
+  opacity: 0.2;
 }
 @media (min-width: 768px) {
   .cid-uQwDUMq5i1 {
